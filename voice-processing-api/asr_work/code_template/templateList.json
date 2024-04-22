@@ -1,0 +1,19 @@
+[
+    {
+        "command": "create a variable",
+        "code": "{} = {}"
+    },
+    {
+        "command": "create a for loop",
+        "code": "for {} in {}:"
+    },
+    {
+        "command": "add a print statement",
+        "code": "print({})"
+    },
+    {
+        "command": "add an if statement",
+        "code": "if {} {} {}:"
+    }
+    
+]
